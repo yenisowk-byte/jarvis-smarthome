@@ -1,0 +1,14 @@
+JARVIS APK - QUICK BUILD WITHOUT ANDROID STUDIO
+
+1. Create a GitHub account if you don't have one.
+2. Create a NEW repository, for example: jarvis-smarthome
+3. Upload ALL files from this project into the repository.
+4. Open the "Actions" tab.
+5. Select "Build JARVIS APK".
+6. Click "Run workflow".
+7. Wait for the green check.
+8. Open the completed workflow run.
+9. Under Artifacts, download "JARVIS-debug-apk".
+10. Extract the ZIP and install app-debug.apk on your Android phone.
+
+No Android Studio is required on your PC.
